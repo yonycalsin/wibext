@@ -1,6 +1,6 @@
 {
   "name": "@wibext/tsconfig",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "author": "Yony Calsin",
   "publishConfig": {
     "access": "public"
